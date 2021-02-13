@@ -1,6 +1,6 @@
 {
   "name": "throw-dice",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "Throw a dice",
   "main": "index.js",
   "repository": "pawel-id/throw-dice",
