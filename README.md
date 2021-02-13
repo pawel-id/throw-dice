@@ -1,6 +1,6 @@
 # Throw a dice
 
-Returns random number 0 thru 5
+Returns random number 1 thru 6
 
 ## Install
 
@@ -16,12 +16,12 @@ as module
 const throwDice = require('throw-dice')
 console.log(throwDice())
 
-// -> number 0 .. 5
+// -> number 1 .. 6
 ```
 
 call directly
 ```bash
 npx throw-dice
 
-// -> number 0 .. 5
+// -> number 1 .. 6
 ```
