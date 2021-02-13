@@ -5,7 +5,8 @@
   "main": "index.js",
   "repository": "pawel-id/throw-dice",
   "bin": {
-    "throw-dice": "./cli.js"
+    "throw-dice": "./cli.js",
+    "td":  "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
