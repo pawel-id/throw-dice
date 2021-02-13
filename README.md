@@ -25,3 +25,12 @@ npx throw-dice
 
 // -> number 1 .. 6
 ```
+
+install globally
+```bash
+npm i -g throw-dice
+
+throw-dice
+
+// -> number 1 .. 6
+```
