@@ -4,6 +4,9 @@
   "description": "Throw a dice",
   "main": "index.js",
   "repository": "pawel-id/throw-dice",
+  "bin": {
+    "throw-dice": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
