@@ -1,9 +1,9 @@
 {
-  "name": "dice-throw",
+  "name": "throw-dice",
   "version": "1.0.0",
   "description": "Throw a dice",
   "main": "index.js",
-  "repository": "pawel-id/dice-throw",
+  "repository": "pawel-id/throw-dice",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
