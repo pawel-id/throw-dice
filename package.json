@@ -1,12 +1,12 @@
 {
   "name": "throw-dice",
-  "version": "1.1.4",
+  "version": "2.0.0",
   "description": "Throw a dice",
   "main": "index.js",
   "repository": "pawel-id/throw-dice",
   "bin": {
     "throw-dice": "./cli.js",
-    "td":  "./cli.js"
+    "td": "./cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
